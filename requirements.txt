@@ -1,0 +1,23 @@
+# Core Python version (optional, specify if needed)
+# python==3.9
+
+# Deep Learning
+tensorflow
+keras
+
+# Data Handling
+numpy
+pandas
+
+# Text Preprocessing
+nltk
+
+# Web Deployment
+streamlit
+flask
+
+# Utilities
+scikit-learn
+
+turtle
+email
